@@ -4,7 +4,7 @@
 <h3><b><samp>Hi my Visitor 👋</h3></b></samp>
 <br>
 
-<h3><samp>I'm Hilmi but my friends just call me "Heal me" because im an optimistic researcher.😊 I'm trying to make people works eaiser.</samp></h3>
+<h3><samp>I'm Hilmi but my friends just call me "Heal me" because I'm an optimistic researcher.😊 I'm trying to make people works eaiser.</samp></h3>
 
 <br>
 
