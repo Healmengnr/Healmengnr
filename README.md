@@ -15,7 +15,7 @@
 <br>
 
 ### 
-<h3><b><samp>Reach me out on my social media</samp></b></h3>
+<h3><b><samp>Reach me out on my social medias</samp></b></h3>
 
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" />][instagram]
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" />][twitter]
