@@ -1,10 +1,10 @@
 <img src="https://c.tenor.com/pBrzvwLzbwoAAAAi/hacking-hack.gif" align="right"  height="300">
 
 ### 
-<h3><b><samp>Hi my Visitor 👋</h3></b></samp>
+<h3><b><samp>Hi folks </h3></b></samp>
 <br>
 
-<h3><samp>I'm Hilmi but my friends just call me "Heal me" because I'm an optimistic researcher.😊 I'm trying to make people works eaiser.</samp></h3>
+<h3><samp>I'm Hilmi but my friends just call me "Heal me" because I'm an optimistic researcher. I'm trying to make people works eaiser.</samp></h3>
 
 <br>
 
