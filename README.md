@@ -3,7 +3,9 @@
 ### 
 <h3><b><samp>Hi folks </h3></b></samp>
 <br>
-<h3><samp>I am Hilmi, a 20-year-old from Turkey passionate about cybersecurity. Enthusiastic about securing digital landscapes, I constantly explore new technologies. With a keen eye for ethical hacking, I strive to contribute positively to online security. Constantly learning, I am dedicated to making cyberspace safer for everyone.</samp></h3>
+<h3><samp>I am Hilmi, a 20-year-old from Turkey passionate about cybersecurity. Enthusiastic about securing digital landscapes, 
+<br>I constantly explore new technologies. With a keen eye for ethical hacking, I strive to contribute positively to online security. Constantly learning, 
+<br>I am dedicated to making cyberspace safer for everyone.</samp></h3>
 
 <br>
 
