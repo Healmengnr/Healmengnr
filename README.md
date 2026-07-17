@@ -8,8 +8,6 @@
 
   <p align="left">
     <a href="https://www.linkedin.com/in/hilmi-enginar-164725201/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-    <a href="https://twitter.com/Healmengnr"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
-    <a href="https://www.instagram.com/healmengnr/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
   </p>
 </div>
 
